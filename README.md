@@ -7,8 +7,8 @@
 Welcome to my Profile! 👋
 <br>
 
-[![YouTube](https://img.shields.io/badge/SUBSCRIBE-1K-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Instagram](https://img.shields.io/badge/FOLLOW_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![YouTube](https://img.shields.io/badge/SUBSCRIBE-1K-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com](https://www.youtube.com/channel/UCEPGmoQPvnWaOuqBrHAI9zg))
+[![Instagram](https://img.shields.io/badge/FOLLOW_INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/riv5547_/)
 [![Follow](https://img.shields.io/badge/FOLLOW-10-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riv5547)
 [![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riv5547)
 
