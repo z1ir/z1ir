@@ -7,7 +7,7 @@
 Welcome to my Profile! 👋
 <br>
 
-![](https://img.shields.io/badge/Profile_views-1,186-blue?style=flat-square)
+![](https://img.shields.io/badge/Profile_views-239,461-blue?style=flat-square)
 
 <br>
 <br>
@@ -28,9 +28,9 @@ Welcome to my Profile! 👋
 ### 📊 Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=riv5547&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=957amazon&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=riv5547&theme=tokyonight&hide_border=true" width="400" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=957amazon&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 </div>
