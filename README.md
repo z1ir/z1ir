@@ -19,6 +19,6 @@ Welcome to my Profile! 👋
 
 ### 🧰 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,lua,ts,js,html,css,py,cpp,discordjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" />
 </p>
 </div>
