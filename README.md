@@ -18,12 +18,4 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,css,py,cpp,discordjs&theme=dark" />
 </p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=forensictools&theme=react-dark&area=true&category=commits" alt="GitHub Activity Graph" width="100%" />
-</p>
-
 </div>
